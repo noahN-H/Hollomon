@@ -15,11 +15,12 @@
 .mtj.tmp/
 
 # Package Files #
+!hollomonCheckConnect.jar
 *.jar
 *.war
 *.nar
 *.ear
-*.zip
+*.zip 
 *.tar.gz
 *.rar
 
